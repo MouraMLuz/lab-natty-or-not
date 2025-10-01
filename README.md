@@ -1,4 +1,4 @@
-# Monitoramento Corporativo para Melhoria Contínua
+# Utilização de IA avatares e vozes para utilização de textos narrados
 
 ## 📒 Descrição
 
