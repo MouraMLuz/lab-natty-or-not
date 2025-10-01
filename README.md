@@ -22,5 +22,5 @@ Com isso demonstra o quanto a IA pode criar personsagens/atava e até mesmo a ut
 
 https://studio.d-id.com/share?id=45fb8a1c2adc10705517144ba615dd79&utm_source=copy
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Isso demonstra o quanto temos que ter cuidado com as informações que fornecemos e como devemos utilizar as IA's de forma inteligente.
